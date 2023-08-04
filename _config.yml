@@ -23,8 +23,8 @@ twitter_username: username
 github_username: username
 minimal_mistakes_skin: air
 search: true
-url: "https://nerc-rasp.github.io" 
-baseurl: "/nerc-rasp"
+url: https://nerc-rasp.github.io
+baseurl: /nerc-rasp
 
 # Build settings
 markdown: kramdown
